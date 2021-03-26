@@ -8,7 +8,7 @@ html,
 body
 {
     height: 100vh;
-    font-family: 'Poppins';
+    font-family: 'Poppins', 'Audiowide';
     /* background: rgb(00, 00, 00); */
     background: rgb(24, 24, 24);
 }
@@ -40,3 +40,9 @@ h1 {
 }
 
 section {height: 100vh;}
+
+.copy {
+    font-size: 2rem;
+    margin-bottom: 1em;
+    font-family: 'Poppins';
+}
